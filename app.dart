@@ -8,7 +8,7 @@ void main (){
 
   class _GState extends State<G> {
     @override
-    Widget build(BuildContext context) {
+    Widget build(BuildContext context){
       return const Placeholder();
     }
   }
